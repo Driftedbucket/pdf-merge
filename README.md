@@ -1,6 +1,6 @@
 # pdf-merge
 
-## A quick and short projecct I created to merge pdf documents for a school project that required merging multiple submisisons into 1 pdf document.
+### A quick and short project I created to merge pdf documents for a school project that required merging multiple submisisons into 1 pdf document.
 
 How to use(**assuming you've forked and cloned and the repo and is residing in the root directory**):
 
